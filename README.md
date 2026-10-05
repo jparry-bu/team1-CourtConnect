@@ -58,7 +58,7 @@ src/
 └── main.tsx
 ```
 
-## Prototype Data
+## Prototype Data Source
 
 CourtConnect currently operates as a front-end prototype. User accounts, hosted games, registrations, messages, notifications, and related application state are stored locally in the browser using `localStorage`.
 
