@@ -58,22 +58,6 @@ src/
 └── main.tsx
 ```
 
-## Running the Project
-
-Install the required dependencies:
-
-```bash
-npm install
-```
-
-Start the development server:
-
-```bash
-npm run dev
-```
-
-The local development URL will be displayed in the terminal.
-
 ## Prototype Data
 
 CourtConnect currently operates as a front-end prototype. User accounts, hosted games, registrations, messages, notifications, and related application state are stored locally in the browser using `localStorage`.
